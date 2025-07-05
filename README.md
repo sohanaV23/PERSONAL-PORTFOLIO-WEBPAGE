@@ -76,3 +76,11 @@ This portfolio website is a reflection of my learning journey and a platform to 
 ---
 
 ## **OUTPUT**
+
+<img width="1888" height="916" alt="Image" src="https://github.com/user-attachments/assets/67e7d06a-d341-465c-8b0d-8f8f6a07508b" />
+
+<img width="1898" height="880" alt="Image" src="https://github.com/user-attachments/assets/4f094e1a-f03d-4062-ad78-330a5e443259" />
+
+<img width="1900" height="886" alt="Image" src="https://github.com/user-attachments/assets/5ce0efe1-8503-4acb-bda5-f16726a75d87" />
+
+<img width="1904" height="884" alt="Image" src="https://github.com/user-attachments/assets/af57799e-69e6-47fa-a631-1fc52afa5e73" />
